@@ -1,4 +1,3 @@
 Ceci est un fichier test.
 Modification du fichier.
 Ajout d'une modification 2.
-Blablablablabla...
